@@ -10,6 +10,14 @@ An interactive web application built with Python and Flask that utilizes advance
 
 ---
 
+## 📂 Dataset Information
+Due to GitHub's file size limitations, the complete raw dataset (`Reviews.csv`) used for training and evaluating this system is hosted externally. 
+
+* **Dataset Description:** A large-scale collection of customer product reviews and text streams, perfect for training robust NLP engines.
+* **Download Link:** [Click here to download the complete Reviews.csv dataset](https://drive.google.com/file/d/17j0UuB86w6XN2xuXGxN5mJPVeBKViKhF/view?usp=drive_link) *(Note: Please place the downloaded file in the root directory before running the project locally).*
+
+---
+
 ## Tech Stack & Architecture
 * **Backend Framework:** Flask (Python Web Server)
 * **Frontend UI:** Responsive HTML5 & CSS3
