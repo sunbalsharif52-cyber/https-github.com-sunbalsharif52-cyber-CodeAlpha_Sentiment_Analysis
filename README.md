@@ -6,15 +6,6 @@ An interactive web application built with Python and Flask that utilizes advance
 * **General Sentiment Classification:** Analyzes text data to classify it instantly as Positive, Negative, or Neutral using lexicon-based evaluation.
 * **Fine-Grained Emotion Detection:** Uses deep learning transformer models to detect specific human emotions such as joy, sadness, anger, fear, and surprise.
 * **Interactive Browser GUI:** A clean, user-friendly web interface where anyone can paste text streams (like customer feedback, reviews, or social updates) and see analysis results immediately.
-* **Data Insights:** Designed to process textual patterns to understand public opinion and inform product development or marketing trends.
-
----
-
-## 📂 Dataset Information
-Due to GitHub's file size limitations, the complete raw dataset (`Reviews.csv`) used for training and evaluating this system is hosted externally. 
-
-* **Dataset Description:** A large-scale collection of customer product reviews and text streams, perfect for training robust NLP engines.
-* **Download Link:** [Click here to download the complete Reviews.csv dataset](https://drive.google.com/file/d/17j0UuB86w6XN2xuXGxN5mJPVeBKViKhF/view?usp=drive_link) *(Note: Please place the downloaded file in the root directory before running the project locally).*
 
 ---
 
