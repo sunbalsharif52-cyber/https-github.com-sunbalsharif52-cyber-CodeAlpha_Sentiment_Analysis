@@ -26,3 +26,8 @@ Run the following command in your terminal or inside your Jupyter Notebook envir
 pip install flask pandas nltk transformers torch openpyxl
 
 
+
+https://github.com/user-attachments/assets/7bd798a1-c215-4918-bc72-9b55cfa29712
+
+
+
