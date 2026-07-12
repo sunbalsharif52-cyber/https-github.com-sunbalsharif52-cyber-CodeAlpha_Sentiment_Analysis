@@ -14,21 +14,42 @@ An interactive web application built with Python and Flask that utilizes advance
 * **Frontend UI:** Responsive HTML5 & CSS3
 * **Sentiment Engine:** NLTK (VADER Sentiment Intensity Analyzer)
 * **Emotion Model:** Hugging Face Transformers (`distilroberta-base` fine-tuned for emotion detection)
-* **Core Libraries:** `pandas`, `torch`, `openpyxl`
+* **Core Libraries:** pandas, torch, openpyxl
 
 ---
 
 ## Installation & Setup
 
 ### 1. Install Dependencies
-```bash
-pip install flask pandas nltk transformers torch openpyxl
-Run the command in your terminal or inside your Jupyter Notebook environment to install all required packages.
+Run the following command in your terminal or inside your Jupyter Notebook environment to install all required packages:
 
+**Command:** pip install flask pandas nltk transformers torch openpyxl
 
+---
 
+### 🎥 Project Demo Video
 
-https://github.com/user-attachments/assets/3f5554e2-479a-4014-b1ba-135333143872
+You can watch the live working video of this project. Click the link below to open the demo video to clearly see the complete application interface:
 
+[Click here to watch the project demo video](https://github.com/user-attachments/assets/3f5554e2-479a-4014-b1ba-135333143872)
 
+---
 
+### 2. Running the Application via Jupyter Notebook
+1. Open your project notebook file (.ipynb).
+2. Run the code cells sequentially from top to bottom.
+3. The final cell will start a local web server and output a network link: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+4. Click the link or open it manually in your web browser to access the live application.
+
+---
+
+## Usage Guide
+1. Launch the application in your browser using the local host link.
+2. Enter or paste any product review, social comment, or article headline into the text area.
+3. Click the **"Analyze Sentiment"** button.
+4. The application will instantly display the calculated general sentiment category alongside the specific primary emotion identified by the AI system.
+
+---
+
+## License
+This project is open-source and available under the MIT License.
